@@ -10,7 +10,7 @@ This project is a part of the AAI-XXX course in the Applied Artificial Intellige
 -- Project Status: [Planned, Active, On-hold, Completed]
 Installation
 You should add an instruction how this project to be used, installed, run, edited in others’ machine.
-  
+To create token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token 
 Project Intro/Objective
 The main purpose of this project is ________. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s). 
 Partner(s)/Contributor(s)  
