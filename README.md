@@ -1,58 +1,27 @@
 # projectApollo
 
-Line Detection using Deep Learning
 
-Data Set
+## Line Detection using Deep Learning
 
-Training data set can be reachable from [https://drive.google.com/file/d/16EDZzs98OrQB4g5a7op5F6erOWJflmH_/view?usp=share_link]here.
-
+This project purpose is the predict lane on the road in realtime for self driving cars. It is using fully connected neural network model for real time predictions. 
 
 
+## Data Set
 
-README
-There are many ways to create good README files for projects. This document as a template is adopted from different resources to assist the MS-AAI students to practice creating README.md document for their final projects on GitHub. README file is seen as an effective introductory project face, which is strongly recommended to make professional GitHub profiles. 
-In addition, if the final projects are ongoing and setup is relatively complicated (i.e., requires installation of many packages and use different datasets), it is recommended to create “setup.md” file on GitHub as well. 
-Students also can check and analyze their created README file, get score, and receive recommendations for improvements by the GitHub README Analyzer across four categories.
-Project Title
-This project is a part of the AAI-XXX course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
--- Project Status: [Planned, Active, On-hold, Completed]
-Installation
-You should add an instruction how this project to be used, installed, run, edited in others’ machine.
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
+Training data can be reachable from [https://drive.google.com/file/d/16EDZzs98OrQB4g5a7op5F6erOWJflmH_/view?usp=share_link](here).
+Labels data can be reachable from [https://drive.google.com/file/d/1cm8WcOSD5FSmtSUB8fbNAdhZM2T6QtJP/view?usp=share_link](here).
 
-To create token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token 
-Project Intro/Objective
-The main purpose of this project is ________. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s). 
+
 Partner(s)/Contributor(s)  
-•	[Name of Your Teammates]
-•	Website for partner, if available. 
-•	Partner contact: [Name of Contact], and If you do not have a partner leave this section out
-Methods Used
-A few examples are:
-•	Inferential Statistics
-•	NLP
-•	Computer Vision
-•	Machine Learning
-•	Deep Learning
-•	Ethics for AI
-•	Data Visualization
-•	IoT
-•	Cloud Computing 
-•	Data Manipulation
-•	Case Studies 
-•	etc.
+•	Carol Khoury
+•	Omer Yilmaz 
+
 Technologies
-A few examples are:
 •	Python
-•	C++
-•	SQL
-•	PostGres, MySql
-•	R
-•	JavaScript
-•	etc.
-Project Description
-Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
+•	Keras
+•	OpenCV
+• Tensoflow
+
 License
 You can add under what license your project is. As a good practice, add LICENSE file in your project folder as well. 
 Acknowledgments
