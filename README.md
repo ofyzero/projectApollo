@@ -1,7 +1,15 @@
 # projectApollo
-CV - project
 
-README Template for GitHub Projects 
+Line Detection using Deep Learning
+
+Data Set
+
+Training data set can be reachable from [https://drive.google.com/file/d/16EDZzs98OrQB4g5a7op5F6erOWJflmH_/view?usp=share_link]here.
+
+
+
+
+README
 There are many ways to create good README files for projects. This document as a template is adopted from different resources to assist the MS-AAI students to practice creating README.md document for their final projects on GitHub. README file is seen as an effective introductory project face, which is strongly recommended to make professional GitHub profiles. 
 In addition, if the final projects are ongoing and setup is relatively complicated (i.e., requires installation of many packages and use different datasets), it is recommended to create “setup.md” file on GitHub as well. 
 Students also can check and analyze their created README file, get score, and receive recommendations for improvements by the GitHub README Analyzer across four categories.
