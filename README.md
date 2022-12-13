@@ -4,6 +4,8 @@
 ## Line Detection using Deep Learning
 
 This project purpose is the predict lane on the road in realtime for self driving cars. It is using fully connected neural network model for real time predictions. 
+Code is written on Python using Colab from Google.
+
 
 
 ## Data Set
