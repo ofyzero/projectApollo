@@ -28,4 +28,3 @@ License
 You can add under what license your project is. As a good practice, add LICENSE file in your project folder as well. 
 Acknowledgments
 You can mention and thank your professors and those who technically helped you during the project. 
-![image](https://user-images.githubusercontent.com/29477156/201136688-81c0ab13-d3c4-4d65-937e-9b4619c732e3.png)
