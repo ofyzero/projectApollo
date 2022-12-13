@@ -27,7 +27,5 @@ Output video can be reachebale from [https://drive.google.com/file/d/1-0GxXKpEDP
   • Tensoflow
 
 ### License
-You can add under what license your project is. As a good practice, add LICENSE file in your project folder as well. 
+MIT Licensed. 
 
-### Acknowledgments
-You can mention and thank your professors and those who technically helped you during the project. 
