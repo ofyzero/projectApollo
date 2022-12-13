@@ -14,6 +14,7 @@ Labels data can be reachable from [https://drive.google.com/file/d/1cm8WcOSD5FSm
 Pretrained model can be reachable from [https://drive.google.com/file/d/1YYBaPJR23MLlO-ghcyfW9Dk4Vy9Y6aJd/view?usp=share_link](here).
 Test video can be reachable from [https://drive.google.com/file/d/19BM1OIQ1A5NrsdQSwCPHyZwlwo2pK1r2/view?usp=share_link](here).
 
+Output video can be reachebale from [https://drive.google.com/file/d/1-0GxXKpEDPi8CeF8_SfH6SVYtDREfKdd/view?usp=share_link](here). 
 
 ### Partner(s)/Contributor(s)  
   •	Carol Khoury
